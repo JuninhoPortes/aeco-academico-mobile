@@ -1,4 +1,3 @@
-:::writing{variant="standard" id="18472"}
 # Acadêmico Fácil
 
 Aplicativo mobile desenvolvido com **React Native**, **Expo** e **EAS Build** para a atividade AECO da disciplina de **Programação para Dispositivos Móveis**.
