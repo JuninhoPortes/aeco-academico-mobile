@@ -1,17 +1,17 @@
-````markdown
+:::writing{variant="standard" id="18472"}
 # Acadêmico Fácil
 
 Aplicativo mobile desenvolvido com **React Native**, **Expo** e **EAS Build** para a atividade AECO da disciplina de **Programação para Dispositivos Móveis**.
 
-O projeto consiste em um mini sistema acadêmico que permite cadastrar alunos, informar duas notas, calcular a média automaticamente e exibir a situação final do estudante.
+O projeto consiste em um mini sistema acadêmico que permite cadastrar alunos, informar duas notas, calcular automaticamente a média e exibir a situação final de cada estudante.
 
 ## Sobre o aplicativo
 
-O **Acadêmico Fácil** foi desenvolvido com o objetivo de demonstrar o fluxo completo de desenvolvimento mobile com Expo:
+O **Acadêmico Fácil** foi desenvolvido com o objetivo de demonstrar o fluxo completo de desenvolvimento mobile com Expo e EAS Build, passando pelas etapas de desenvolvimento, teste, geração de build na nuvem, instalação do APK e execução em um celular físico.
 
-```text
-código → teste no Expo Go → build na nuvem → instalação → execução no celular físico
-````
+**Fluxo realizado no projeto:**
+
+**Código → Teste no Expo Go → Build na nuvem → Instalação → Execução no celular físico**
 
 A aplicação permite:
 
